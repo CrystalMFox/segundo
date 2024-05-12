@@ -1,0 +1,64 @@
+body{
+	background-image: url("fonfo.jpg");
+	background-size: cover;
+	background-repeat: no repeat;
+	background-position: center center;
+  	background-attachment: fixed;
+}
+.introduccion{
+	font-family:Godzilla;
+	color: #D3FBFE;
+	text-shadow: 15px 15px #1C0257;
+	font-size: 10em;
+}
+h2{
+	font-family:The Lost Dungeon;
+	color: #D3FBFE;
+	text-shadow: 15px 15px #1C0257;
+	font-size: 2.5em;
+}
+div{
+	border: 5px solid #33005F;
+	margin: auto;
+	width: 35%;
+	color: #D3FBFE;
+	padding: 15px 15px;
+	clear: right left;
+	background-color: #000720;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+}
+.posterleft{
+	border: 10px solid #E6FEFF;
+	float: left;
+	margin-left: 45;
+	margin-top: 10;
+	width: 25%;
+	position: sticky;
+}
+.posterright{
+	border: 10px solid #E6FEFF;
+	float: right;
+	margin-right: 45;
+	margin-top: 10;
+	width: 25%;
+	position: sticky;
+}
+.posterleft_2{
+	border: 10px solid #E6FEFF;
+	float: left;
+	margin-left: -490;
+	margin-top: 800;
+	width: 25%;
+	position: sticky;
+}
+.posterright_2{
+	border: 10px solid #E6FEFF;
+	float: right;
+	margin-right: -490;
+	margin-top: 800;
+	width: 25%;
+	position: sticky;
+}
